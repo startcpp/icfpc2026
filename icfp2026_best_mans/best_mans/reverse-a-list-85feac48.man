@@ -1,0 +1,37 @@
+   +----------------------+   
+   |v <v<  v<< v<< v<< v<<|   
+  >|>v  rv  S   S   S   S |   
+  ||v<   <  r   r   r   r |   
+  ||>v   v  ^a  ^a  ^a  ^a|   
+  ||v<   < q q q q q q q q|   
+  ||>v   vvd  vd  vd  vd  |   
+  ||v<   <r   r   r   r   |   
+  ||>v    S   S   S   S   |   
+  ||v<^<^@<< ^<< ^<< ^<<  |   
+  ||>                    ^|   
+  |+----------------------+   
+  |+-+    ^ ^ ^ ^ ^ ^ ^ ^ v   
+  ||I|    ^ ^ ^ ^ ^ ^ ^ ^ v   
+  ^+-++------------------++--+
++--+ v|>v<@< < < < < < < ||@v|
+|@v| >| Rdvdvdvdvdvdvdvdv||>v|
+|>v|  |  qRqRqRqRqRqRqRqR||SR|
+|SR|  |  ssssssssssssssss||RS|
+|^<|  | sRqRqRqRqRqRqRqR ||SR|
++--+<<| >^a^a^a^a^a^a^a^ ||RS|
+ v    |^  < < < < < < < <||SR|
+ |    +------------------+|RS|
+ |       v v v v v v v v >|SR|
+ |       v v v v v v v v ^|RS|
+ |+----------------------+|SR|
+ ||>                    v||RS|
+ ||^<v<v@<< v<< v<< v<<  ||SR|
+ ||>^    S   S   S   S   ||RS|
+ ||^<   <r   r   r   r   ||^<|
+ ||>^   ^^a  ^a  ^a  ^a  |+--+
+ ||^<   < q q q q q q q q|   v
+ ||>^   ^  vd  vd  vd  vd|   v
+ ||^<   <  r   r   r   r | +-+
+ >|>^  r^  S   S   S   S | |O|
+  |^ <^<  ^<< ^<< ^<< ^<<| +-+
+  +----------------------+    
